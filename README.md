@@ -1,3 +1,5 @@
+# DEPRECATED
+
 # Bootstrap on CakePHP
 
 ###### Yet another CakePHP with Bootstrap
